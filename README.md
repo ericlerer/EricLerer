@@ -21,4 +21,4 @@
 - 📫 How to reach me: @ericlererrr
 - ⚡ Fun fact: I'm Jew
 -->
-[![Snake Game](https://github.com/ericlerer/EricLerer/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/Formandodev/Formandodev/actions/workflows/blank.yml)
+[![Snake Game][([https://github.com/ericlerer/EricLerer/actions/workflows/blank.yml/badge.svg?branch=main)(https://github.com/Formandodev/Formandodev/actions/workflows/blank.yml)]
